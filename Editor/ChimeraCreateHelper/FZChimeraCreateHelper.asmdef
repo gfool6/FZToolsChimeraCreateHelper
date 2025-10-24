@@ -1,0 +1,33 @@
+{
+    "name": "FZChimeraCreateHelper",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6474ffb2a5340404e83c4efe68aaef4e",
+        "GUID:416a347d7ae554296aa29a9262ca5d0d",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:b906eeb43404e4805977e097bb211ee0",
+        "GUID:55e48c93b17384860b6f2f7bf81eb5c7",
+        "GUID:fc900867c0f47cd49b6e2ae4ef907300",
+        "GUID:5ce33783346c3124990afbe7b0390a06"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VRC.Dynamics.dll",
+        "VRC.Utility.dll",
+        "VRCSDK3A.dll",
+        "VRCSDKBase.dll",
+        "VRCCore-Editor.dll",
+        "VRCSDK3A-Editor.dll",
+        "VRCSDKBase-Editor.dll",
+        "VRC.SDK3.Dynamics.PhysBone.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,10 @@
+{
+  "name": "com.gfool6.fztools.chimera-create-helper",
+  "displayName": "FZ Chimera Create Helper",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "gfool6's avatar custom tool.",
+  "vpmDependencies": {
+    "com.gfool6.fztools.core": ">=1.0.0"
+  }
+}
